@@ -4,32 +4,16 @@
 
 ![screenshot](./screenshot.png)
 
-    Additional description about the project and its features.
+## :package: Built With
 
-## Built With
+- Plain HTML5
+- Pure CSS3
 
-- Plain HTML5,
-- Pure CSS3,
+## :mag: Live Demo
 
-## Live Demo
+[Live Demo Link](https://mcervantes71.github.io/HTML-Forms/index.html)
 
-[Live Demo Link](https://rawcdn.githack.com/Teshager21/HTML-Forms/3e3544403fdd04794d67a080916c8a5eb18a6f6e/index.html)
-
-## Getting Started
-
-    To get a local copy up and running follow these simple example steps.
-
-
-### Install
-
-    Download the repository
-
-### Usage
-
-    In any browser, open the index.html file
-
-
-## Authors
+## :busts_in_silhouette: Authors
 
 👤 **Author1**
 
@@ -50,9 +34,9 @@
 
     Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](../../issues).
 
-## Show your support
+## :star2: Show your support
 
     Give a ⭐️ if you like this project!
 
