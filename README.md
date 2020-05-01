@@ -8,6 +8,7 @@
 
 - Plain HTML5
 - Pure CSS3
+- Font awesome
 
 ## :mag: Live Demo
 
