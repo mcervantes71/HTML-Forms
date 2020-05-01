@@ -15,20 +15,19 @@
 
 ## :busts_in_silhouette: Authors
 
-👤 **Author1**
+👤 **Teshager Admasu**
 
-- Gmail: [Teshager Admasu](mailto:teshager8922@gmail.com)
-- Github: [@teshager21](https://github.com/teshager21)
-- Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
 - Linkedin: [Teshager Admasu](https://www.linkedin.com/in/teshager-admasu-0000011a2/)
+- Twitter: [@Teshage84907805](https://twitter.com/Teshage84907805)
+- Github: [@teshager21](https://github.com/teshager21)
+- Gmail: [Teshager Admasu](mailto:teshager8922@gmail.com)
 
-👤 **Author2**
+👤 **Martin Cervantes**
 
-- Gmail: [Martin Cervantes](mailto:cervantes.martine@gmail.com)
-- Github: [@mcervantes71](https://github.com/mcervantes71)
-- Twitter: [@M4rt1nC3rv4nt3s](https://twitter.com/M4rt1nC3rv4nt3s)
 - Linkedin: [Martin Cervantes](https://www.linkedin.com/in/cervantesmartin/)
-
+- Twitter: [@M4rt1nC3rv4nt3s](https://twitter.com/M4rt1nC3rv4nt3s)
+- Github: [@mcervantes71](https://github.com/mcervantes71)
+- Gmail: [cervantes.martine](mailto:cervantes.martine@gmail.com)
 
 ## 🤝 Contributing
 
